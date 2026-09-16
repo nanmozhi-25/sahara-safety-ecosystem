@@ -1,6 +1,15 @@
 # 🚨 SAHARA — Safety & Assistance Hub for Awareness, Response and Action
 
 > **An emergency safety and assistance platform designed to connect users, hospitals, ambulance services, and emergency responders through a unified digital system.**
+>
+> 
+## 🌐 Live Demo
+
+🚀 **Try SAHARA Live:**
+
+👉 https://sahara-ecru-chi.vercel.app/
+
+[**🔗 Open SAHARA Live Demo**](https://sahara-ecru-chi.vercel.app/)
 
 ## 🌐 Project Overview
 
