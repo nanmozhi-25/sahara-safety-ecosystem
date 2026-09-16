@@ -326,14 +326,6 @@ SAHARA was developed as a technology project focused on applying web development
 
 ---
 
-## 👩‍💻 Author
-
-**Nanmozhi Tamilarasan**
-
-GitHub:
-https://github.com/nanmozhi-25
-
----
 
 ## 📌 Repository
 
